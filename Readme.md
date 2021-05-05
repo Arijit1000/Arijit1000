@@ -1,6 +1,6 @@
 <h3 align="center"> Hi there 👋, I'm Arijit Goswami. </h3>
 
-<h4 align="center"> I'm am a full Stack MERN/MEAN Web Developer and Blockchain Developer. </h4>
+<h4 align="center"> I'm a full Stack MERN/MEAN Web Developer and Blockchain Developer. </h4>
 
 #### BIO
 
