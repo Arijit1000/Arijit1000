@@ -19,8 +19,8 @@ Full Stack MERN Web Developer, Blockchain Developer. Also efficient in working w
 
 #### WORKS
 
-- 🔭­ I'm currently working as a Web developer Intern http://gracehut.org/
-- 🌱 I'm currently learning Java Development
+- 🔭­ I'm currently working as a Machine Learning Engineer (Intern) https://omdena.com/ 
+- 🌱 I'm currently learning Java Development 
 - 👯 I'm looking to collaborate Full Stack Web development and Blockchain Projects
 - 💼 Portfolio: Check out my Portfolio at https://arijit1000.github.io/
 - 💬 Ask me about Full Stack Web Development | App Development | GUI Based Applications | Data Structures | Algorithms
