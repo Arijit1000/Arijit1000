@@ -8,6 +8,8 @@ Full Stack MERN Web Developer, Data Science Enthusiast, Blockchain Developer. Al
 
 #### SKILLS
 
+- Data Science 
+- Data Visualization & Analysis
 - MERN Stack
 - MEAN Stack
 - LAMPP Stack
@@ -23,9 +25,9 @@ Full Stack MERN Web Developer, Data Science Enthusiast, Blockchain Developer. Al
 - 🌱 I'm currently learning Java Development 
 - 👯 I'm looking to collaborate Full Stack Web development and Blockchain Projects
 - 💼 Portfolio: Check out my Portfolio at https://arijit1000.github.io/
-- 💬 Ask me about Full Stack Web Development | App Development | GUI Based Applications | Data Structures | Algorithms
+- 💬 Ask me about Full Stack Web Development | Data Science | App Development | GUI Based Applications | Data Structures | Algorithms
 - 📫 How to reach me: https://www.linkedin.com/in/arijit-goswami-8bba641b1/
-- 😄  Pronouns: | Web developer | Blockchain Developer | Freelancer | Coder | Tech lover | ML Enthusiast
+- 😄  Pronouns: | Web developer | Data Scientist | Blockchain Developer | Freelancer | Coder | Tech lover | ML Enthusiast
 - ⚡ Fun fact: Compiler is the best friend.
 
 #### SOCIAL LINKS
