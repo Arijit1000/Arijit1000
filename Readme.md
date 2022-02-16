@@ -23,7 +23,7 @@ Full Stack MERN Web Developer, Data Science Enthusiast, Blockchain Developer. Al
 
 - 🔭­ I'm currently working as a Machine Learning Engineer (Intern) https://omdena.com/ 
 - 🌱 I'm currently learning Java Development 
-- 👯 I'm looking to collaborate Full Stack Web development and Blockchain Projects
+- 👯 I'm looking forward to collaborate with some amazing Data Science and Blockchain Projects
 - 💼 Portfolio: Check out my Portfolio at https://arijit1000.github.io/
 - 💬 Ask me about Full Stack Web Development | Data Science | App Development | GUI Based Applications | Data Structures | Algorithms
 - 📫 How to reach me: https://www.linkedin.com/in/arijit-goswami-8bba641b1/
