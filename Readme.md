@@ -4,7 +4,7 @@
 
 #### BIO
 
-Full Stack MERN Web Developer, Data Science Enthusiast, Blockchain Developer. Also efficient in working with LAMPP stack, experience in Web App Development and Blockchain Development. Proficient in System Administration and DevOps with great communicative and management skills.
+Full Stack MERN Web Developer, Data Scientist, Blockchain Developer. Also efficient in working with LAMPP stack, experience in Web App Development and Blockchain Development. Proficient in System Administration and DevOps with great communicative and management skills.
 
 #### SKILLS
 
