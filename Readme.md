@@ -21,7 +21,7 @@ Full Stack MERN Web Developer, Data Scientist, Blockchain Developer. Also effici
 
 #### WORKS
 
-- 🔭­ I'm currently working as a Machine Learning Engineer (Intern) https://omdena.com/ 
+- 🔭­ I have worked as a Machine Learning Engineer at https://omdena.com/ 
 - 🌱 I'm currently learning Java Development 
 - 👯 I'm looking forward to collaborate with some amazing Data Science and Blockchain Projects
 - 💼 Portfolio: Check out my Portfolio at https://arijit1000.github.io/
