@@ -10,6 +10,7 @@ Full Stack MERN Web Developer, Data Scientist, Blockchain Developer. Also effici
 
 - Data Science 
 - Data Visualization & Analysis
+- DevOps
 - MERN Stack
 - MEAN Stack
 - LAMPP Stack
@@ -17,16 +18,15 @@ Full Stack MERN Web Developer, Data Scientist, Blockchain Developer. Also effici
 - Blockchain Developer
 - UI Design
 - Firebase
-- DevOps
 
 #### WORKS
 
-- 🔭­ I have worked as a Machine Learning Engineer at https://omdena.com/ 
-- 🌱 I'm currently learning Java Development 
-- 👯 I'm looking forward to collaborate with some amazing Data Science and Blockchain Projects
+- 🔭­ I am a Machine Learning Researcher and passionate about Open-source and DevOps. 
+- 🌱 I'm currently working on some DevOps projects.
+- 👯 I'm looking forward to collaborate with some amazing Data Science and DevOps Projects
 - 💼 Portfolio: Check out my Portfolio at https://arijit1000.github.io/
 - 💬 Ask me about Full Stack Web Development | Data Science | App Development | GUI Based Applications | Data Structures | Algorithms
-- 📫 How to reach me: https://www.linkedin.com/in/arijit-goswami-8bba641b1/
+- 📫 How to reach me: https://www.linkedin.com/in/goswami-arijit/
 - 😄  Pronouns: | Web developer | Data Scientist | Blockchain Developer | Freelancer | Coder | Tech lover | ML Enthusiast
 - ⚡ Fun fact: Compiler is the best friend.
 
