@@ -30,7 +30,7 @@ Full Stack MERN Web Developer, Data Scientist, Blockchain Developer. Also effici
 - 😄  Pronouns: | Web developer | Data Scientist | Blockchain Developer | Freelancer | Coder | Tech lover | ML Enthusiast
 - ⚡ Fun fact: Compiler is the best friend.
 
-Reach out to me via [Email](goswamiarijit2017@gmail.com)
+✉️  You can shoot me an Email at goswamiarijit2017@gmail.com
 
 
 
