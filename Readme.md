@@ -19,6 +19,9 @@ Full Stack MERN Web Developer, Data Scientist, Blockchain Developer. Also effici
 - UI Design
 - Firebase
 
+
+<h4 align="center"> As a software engineer, I am passionate about getting everyone into Open Source. </h4>
+
 #### WORKS
 
 - 🔭­ I am a Machine Learning Researcher and passionate about Open-source and DevOps. 
