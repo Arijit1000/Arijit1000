@@ -31,6 +31,7 @@ Full Stack MERN Web Developer, Data Scientist, Blockchain Developer. Also effici
 - ⚡ Fun fact: Compiler is the best friend.
 
 Reach out to me via [Email] (goswamiarijit2017@gmail.com)
+
 Sign up to my [Newsletter](https://www.getrevue.co/profile/arijitgoswami) to stay up-to-date with important upcoming events
 
 #### SOCIAL LINKS
