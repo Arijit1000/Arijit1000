@@ -2,6 +2,8 @@
 
 <h4 align="center"> I'm a Full Stack Web Developer, Data Scientist and Blockchain Developer. </h4>
 
+<h3 align="center"> As a software engineer, I am passionate about getting everyone into Open Source. </h3>
+
 #### BIO
 
 Full Stack MERN Web Developer, Data Scientist, Blockchain Developer. Also efficient in working with LAMPP stack, experience in Web App Development and Blockchain Development. Proficient in System Administration and DevOps with great communicative and management skills.
@@ -20,7 +22,6 @@ Full Stack MERN Web Developer, Data Scientist, Blockchain Developer. Also effici
 - Firebase
 
 
-<h4 align="center"> As a software engineer, I am passionate about getting everyone into Open Source. </h4>
 
 #### WORKS
 
