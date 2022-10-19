@@ -31,7 +31,7 @@ Full Stack MERN Web Developer, Data Scientist, Blockchain Developer. Also effici
 - 💼 Check out my [Portfolio](https://arijit1000.github.io/)
 - 💬 Ask me about Full Stack Web Development | Data Science | App Development | GUI Based Applications | Data Structures | Algorithms
 - 📫 Connect with me via [LinkedIn](https://www.linkedin.com/in/goswami-arijit/)
-- 😄  Pronouns: | Web developer | Data Scientist | Blockchain Developer | Freelancer | Coder | Tech lover | ML Enthusiast
+- 😄  Pronouns: | DevOps Engineer | Data Scientist | Blockchain Developer | Freelancer | Coder | Tech lover
 - ⚡ Fun fact: Compiler is the best friend.
 
 
